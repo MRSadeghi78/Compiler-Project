@@ -1,0 +1,56 @@
+string constant
+accessing variable
+string constant
+string constant
+function call
+accessing variable
+accessing variable
+function call
+float constant
+float constant
+float constant
+float constant
+string constant
+function call
+accessing variable
+function call
+accessing variable
+accessing variable
+accessing variable
+float constant
+double constant
+double constant
+double constant
+double constant
+boolean constant
+boolean constant
+Long integer constant
+Long integer constant
+integer constant
+integer constant
+integer constant
+integer constant
+integer constant
+string constant
+character constant
+character constant
+float constant
+integer constant
+integer constant
+boolean constant
+character constant
+double constant
+accessing variable
+accessing variable
+integer constant
+double constant
+boolean constant
+integer constant
+boolean constant
+integer constant
+boolean constant
+integer constant
+break
+integer constant
+integer constant
+Writing the generated code into the executable output file

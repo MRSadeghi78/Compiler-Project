@@ -1,0 +1,63 @@
+int[] x, y, sivj;
+//int a, b;
+//char c, d;
+
+function void myFunc() {}
+function int returnInt() {}
+function string getAndReturnString(string s1, string s2) {
+    string s = "s";
+    return s;
+}
+function void start() {
+    string s1 = "s1string", s2 = "abc";
+    myFunc();
+    getAndReturnString(s1, s2);
+    float a = 1.2F / 2.F - 3.1F , b = 5.F;
+    print("salam");
+    print(a);
+    a++;
+    ++b;
+    --a;
+    b--;
+    a = b + 9.9F;
+    double c = 2.3, d = 2.;
+    c += 1.;
+    d *= 1.5;
+    bool e = true, f = false;
+    long g = 123L, h = 12345678L;
+    int i = 5+4*3-2/1 ;
+    string j = "abc";
+    char k = 'c', l = '\n';
+    auto m = 2.9F, n = 3;
+    const auto q = 5;
+    const bool r = false;
+    long o = 'c'; //implicit cast
+//    return;
+    long s = (int) 3.2; //explicit cast
+//    int p = 5.8; //type checking
+   if (o & g)
+    {
+        int a = 11;
+    }
+    else
+    {
+        double kir = 0.;
+    }
+
+    repeat
+    {
+
+    }
+    until (true);
+
+
+    for (int ii = 0; false; ii = 10)
+    {
+        if (false)
+        {
+            int a = 11;
+            break;
+        }
+    }
+    x[0] = 0;
+}
