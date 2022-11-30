@@ -1,0 +1,9 @@
+int aa;
+
+function double ll(int ad){
+
+}
+int f = 3 + 3 ;
+function int a(int b , int c , int d , int e){
+
+}$
